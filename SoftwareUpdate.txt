@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
